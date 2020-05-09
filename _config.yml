@@ -12,6 +12,6 @@ user_title: Data Scientist / Engineer
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-165979555-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
