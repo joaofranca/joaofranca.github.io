@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com/"
-title: ExampleSite
+baseURL: "https://joaofranca.dev/"
+title: João França
 paginate: 5
 theme: PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: UA-165979555-1
 
 minify:
     disableXML: true
@@ -16,15 +16,15 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
+    title: João França's Corner
+    description: "João França's personal website"
     keywords: [Blog, Portfolio, PaperMod]
     author: João França
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    #images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
-    disableThemeToggle: false
+    defaultTheme: dark # auto # dark, light
+    disableThemeToggle: true
 
     ShowReadingTime: true
     ShowShareButtons: true
@@ -49,45 +49,43 @@ params:
         safari_pinned_tab: "<link / abs url>"
 
     label:
-        text: "Home"
-        icon: /apple-touch-icon.png
+        text: "About"
+        #icon: /apple-touch-icon.png
         iconHeight: 35
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
-        imageUrl: "<img location>"
+        enabled: true # needs to be explicitly set
+        title: João França
+        subtitle: "Welcome to my little corner."
+        imageUrl: "https://www.gravatar.com/avatar/37166e2e944e6d1e149d7f7febc1e912?size=200"
         imageWidth: 120
         imageHeight: 120
-        imageTitle: my image
-        buttons:
-            - name: Posts
-              url: posts
-            - name: Tags
-              url: tags
+        imageTitle: my picture
+        # buttons:
+        #     - name: Blog
+        #       url: blog
+        #     - name: Tags
+        #       url: tags
 
     # home-info mode
     homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Title: "João França"
+        Content: Welcome to my little corner.
 
     socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
+        - name: email
+          url: "mailto:hello@joaofranca.dev"
         - name: stackoverflow
-          url: "https://stackoverflow.com"
+          url: "https://stackoverflow.com/users/633958/joao"
+        - name: twitter
+          url: "https://twitter.com/jpafranca"
         - name: github
-          url: "https://github.com/"
+          url: "https://github.com/joaofranca"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+    #analytics:
+    #    google:
+    #        SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
@@ -95,7 +93,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/<path_to_repo>/content"
+        URL: "https://github.com/joaofranca/joaofranca.github.io/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -111,18 +109,15 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: categories
-          name: categories
-          url: /categories/
-          weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
+        - identifier: blog
+          name: blog
+          url: /blog/
           weight: 20
-        - identifier: example
-          name: example.org
-          url: https://example.org
-          weight: 30
+        - identifier: about
+          name: about
+          url: /
+          weight: 10
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
