@@ -3,16 +3,18 @@ title: João França
 paginate: 5
 theme: PaperMod
 
+enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 googleAnalytics: UA-165979555-1
 
 minify:
     disableXML: true
-    minifyOutput: true
+    # minifyOutput: true
 
 outputs:
     home:
@@ -22,12 +24,12 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: João França's Corner
+    #title: João França's Corner
     description: "João França's personal website"
-    keywords: [Blog, Portfolio, PaperMod]
+    # keywords: [Blog, Portfolio, PaperMod]
     author: João França
     # author: ["Me", "You"] # multiple authors
-    #images: ["<link or path of image for opengraph, twitter-cards>"]
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
     defaultTheme: dark # auto, dark, light
     disableThemeToggle: true
