@@ -32,6 +32,9 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-I'm a software crafter with a hybrid background in Software Engineering and Data Science (MSc degree in AI and Databases) who has been working on fascinating projects around the world. If this sounds interesting do check [my work journey on LinkedIn](https://www.linkedin.com/in/joaofranca/), I try to keep it up to date.
+
+*Hello there and welcome to my little corner!*
+
+I'm a software crafter with a hybrid background and interest in Software Engineering and Data Science (MSc degree in AI and Databases) who has been working on fascinating projects around the world. If this sounds interesting do check [my work journey on LinkedIn](https://www.linkedin.com/in/joaofranca/), I try to keep it up to date.
 
 At the moment, you can find me at [Talkdesk](https://www.talkdesk.com/) as Engineering / Data Science Manager, taking part in a [not so secret amazing project](https://www.talkdesk.com/cloud-contact-center/wem/workforce-management-wfm/).

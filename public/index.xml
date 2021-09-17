@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>João França</title>
+    <link>https://joaofranca.dev/</link>
+    <description>Recent content on João França</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://joaofranca.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 1st post</title>
+      <link>https://joaofranca.dev/blog/hello/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://joaofranca.dev/blog/hello/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://joaofranca.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joaofranca.dev/about/</guid>
+      <description>Hello there and welcome to my little corner!
+I&amp;rsquo;m a software crafter with a hybrid background and interest in Software Engineering and Data Science (MSc degree in AI and Databases) who has been working on fascinating projects around the world. If this sounds interesting do check my work journey on LinkedIn, I try to keep it up to date.
+At the moment, you can find me at Talkdesk as Engineering / Data Science Manager, taking part in a not so secret amazing project.</description>
+    </item>
+    
+    
   </channel>
 </rss>

@@ -14,6 +14,12 @@ minify:
     disableXML: true
     minifyOutput: true
 
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: João França's Corner
@@ -23,7 +29,7 @@ params:
     # author: ["Me", "You"] # multiple authors
     #images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
-    defaultTheme: dark # auto # dark, light
+    defaultTheme: dark # auto, dark, light
     disableThemeToggle: true
 
     ShowReadingTime: true
@@ -127,6 +133,11 @@ menu:
           name: home
           url: /
           weight: 10
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
         
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
