@@ -123,9 +123,9 @@ menu:
           url: /search/
           summary: "search"
           weight: 40
-        - identifier: blog
-          name: blog
-          url: /blog/
+        - identifier: post
+          name: posts
+          url: /posts/
           weight: 30
         - identifier: about
           name: about
