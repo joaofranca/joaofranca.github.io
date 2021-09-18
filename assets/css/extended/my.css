@@ -24,3 +24,8 @@
     --entry: #111820;
     --border: transparent;
 }
+
+.share-buttons{
+    --code-bg:transparent;
+    --border: transparent;
+}
