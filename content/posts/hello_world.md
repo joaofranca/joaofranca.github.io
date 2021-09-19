@@ -34,10 +34,10 @@ ShowPostNavLinks: true
 No new programming experience is complete without the classic "Hello World" output. In this case, this post marks the *upgrade* my personal website just went through. 
 
 These were the most noticeable changes:
-* Instead of [Jekkyl](https://jekyllrb.com/), I'm now using the [Hugo](https://gohugo.io/) framework to create/generate the site (the theme is [PaperMod](https://github.com/adityatelange/hugo-PaperMod)) - the reason being Hugo is more powerful feature wise, allowing me to easily add more nice things as needed
-* Speaking of nice things, the posts (aka blog) is one of those
-* The site now also has an awesome search feature using [Fuse.js](https://fusejs.io/) (it comes by default with the PaperMod theme)
-* By the way, posts and content itself in general support change suggestions (via GitHub issues and PRs), you can check the link under the subtitle right for this post as an example
+* Instead of [Jekkyl](https://jekyllrb.com/), I'm now using the [Hugo](https://gohugo.io/) framework to create/generate the site (the theme is [PaperMod](https://github.com/adityatelange/hugo-PaperMod)) - the reason being Hugo is more powerful feature wise, allowing me to easily add more nice things.
+* Speaking of nice things, the posts (aka blog) is one of those.
+* The site now also has an awesome search feature using [Fuse.js](https://fusejs.io/) (it comes by default with the PaperMod theme).
+* By the way, posts and content support suggestions (via GitHub issues and PRs), you can check the "Suggest Changes" link under the subtitle for this post, as an example.
 * I kept the particles animation that gives the home page a nice touch. Though it would be fun to code something similar, I used [this already cool one](https://github.com/VincentGarreau/particles.js).
 
 This is pretty much it, I'll see you around!
