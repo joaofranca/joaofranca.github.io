@@ -38,5 +38,6 @@ These were the most noticeable changes:
 * Speaking of nice things, the posts (aka blog) is one of those
 * The site now also has an awesome search feature using [Fuse.js](https://fusejs.io/) (it comes by default with the PaperMod theme)
 * By the way, posts and content itself in general support change suggestions (via GitHub issues and PRs), you can check the link under the subtitle right for this post as an example
+* I kept the particles animation that gives the home page a nice touch. Though it would be fun to code something similar, I used [this already cool one](https://github.com/VincentGarreau/particles.js).
 
 This is pretty much it, I'll see you around!
