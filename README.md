@@ -14,4 +14,4 @@ Code to run [my personal website](https://joaofranca.dev/). Created using [Hugo]
 
 ## License
 
-[MIT](https://github.com/joaofranca/joaofranca.github.io/blob/master/LICENSE.txt)
+[MIT](https://github.com/joaofranca/joaofranca.github.io/blob/master/LICENSE)
