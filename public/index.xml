@@ -5,14 +5,14 @@
     <link>https://joaofranca.dev/</link>
     <description>Recent content on João França</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://joaofranca.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Sep 2020 19:27:03 +0000</lastBuildDate><atom:link href="https://joaofranca.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>https://joaofranca.dev/blog/hello/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <title>Hello World!</title>
+      <link>https://joaofranca.dev/posts/hello_world/</link>
+      <pubDate>Fri, 18 Sep 2020 19:27:03 +0000</pubDate>
       
-      <guid>https://joaofranca.dev/blog/hello/</guid>
-      <description>Desc Text.</description>
+      <guid>https://joaofranca.dev/posts/hello_world/</guid>
+      <description>And welcome to my new little corner</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       
       <guid>https://joaofranca.dev/about/</guid>
       <description>Hello there and welcome to my little corner!
-I&amp;rsquo;m a software crafter with a hybrid background and interest in Software Engineering and Data Science (MSc degree in AI and Databases) who has been working on fascinating projects around the world. If this sounds interesting do check my work journey on LinkedIn, I try to keep it up to date.
+I&amp;rsquo;m a software crafter with a hybrid background in Software Engineering and Data Science with an MSc degree in AI and Databases. I&amp;rsquo;ve been working on fascinating tech projects around the world. If this sounds interesting do check my work journey on LinkedIn, I try to keep it up to date.
 At the moment, you can find me at Talkdesk as Engineering / Data Science Manager, taking part in a not so secret amazing project.</description>
     </item>
     

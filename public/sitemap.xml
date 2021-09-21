@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joaofranca.dev/blog/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://joaofranca.dev/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://joaofranca.dev/posts/hello_world/</loc>
+    <lastmod>2020-09-18T19:27:03+00:00</lastmod>
   </url><url>
     <loc>https://joaofranca.dev/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2020-09-18T19:27:03+00:00</lastmod>
   </url><url>
-    <loc>https://joaofranca.dev/blog/hello/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://joaofranca.dev/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://joaofranca.dev/posts/</loc>
+    <lastmod>2020-09-18T19:27:03+00:00</lastmod>
   </url><url>
     <loc>https://joaofranca.dev/about/</loc>
   </url><url>
@@ -24,5 +18,7 @@
     <loc>https://joaofranca.dev/search/</loc>
   </url><url>
     <loc>https://joaofranca.dev/series/</loc>
+  </url><url>
+    <loc>https://joaofranca.dev/tags/</loc>
   </url>
 </urlset>
