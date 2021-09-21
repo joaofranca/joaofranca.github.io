@@ -1,0 +1,153 @@
+baseURL: "https://joaofranca.dev/"
+title: João França
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+googleAnalytics: UA-165979555-1
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    #title: João França's Corner
+    description: "João França's personal website"
+    # keywords: [Blog, Portfolio, PaperMod]
+    author: João França
+    # author: ["Me", "You"] # multiple authors
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark # auto, dark, light
+    disableThemeToggle: true
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    assets:
+        # disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "favicon.ico"
+        favicon16x16: "favicon-16x16.png"
+        favicon32x32: "favicon-32x32.png"
+        apple_touch_icon: "favicon-32x32.png"
+        safari_pinned_tab: "favicon-32x32.png"
+
+    label:
+        text: "João's Corner"
+        #icon: /apple-touch-icon.png
+        #iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: João França
+        subtitle: Hello there and welcome to my little corner!
+        imageUrl: "https://www.gravatar.com/avatar/37166e2e944e6d1e149d7f7febc1e912?size=200"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my picture
+        # buttons:
+        #     - name: Blog
+        #       url: blog
+        #     - name: Tags
+        #       url: tags
+
+    # home-info mode
+    # homeInfoParams:
+    #     Title: "João França"
+    #     Content: Hello World
+
+    socialIcons:
+        - name: email
+          url: "mailto:hello@joaofranca.dev"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/joaofranca/"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/633958/joao"
+        - name: twitter
+          url: "https://twitter.com/jpafranca"
+        - name: github
+          url: "https://github.com/joaofranca"
+
+    #analytics:
+    #    google:
+    #        SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    editPost:
+        URL: "https://github.com/joaofranca/joaofranca.github.io/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - name: search
+          url: /search/
+          summary: "search"
+          weight: 40
+        - identifier: post
+          name: posts
+          url: /posts/
+          weight: 30
+        - identifier: about
+          name: about
+          url: /about/
+          weight: 20
+        - identifier: home
+          name: home
+          url: /
+          weight: 10
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+        
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai

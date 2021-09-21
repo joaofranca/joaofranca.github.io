@@ -1,0 +1,29 @@
+.dark {
+    --theme: #1a222c;
+}
+
+.post-entry {
+    --entry: #111820;
+    --border: transparent;
+}
+
+.share-buttons{
+    --code-bg:transparent;
+    --border: transparent;
+}
+
+#top {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+#top canvas{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+

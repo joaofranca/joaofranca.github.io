@@ -1,17 +1,16 @@
 # Welcome to my little corner
 
-If you are looking for the theme used, keep reading. If you want to build a similar site, this is open source, so just clone the project and *hack* away!
+Code to run [my personal website](https://joaofranca.dev/). Created using [Hugo](https://gohugo.io/), an awesome static site generator.
 
-The running page can be [found here](https://joaofranca.dev/).
+## Setup
 
-## Test and Run Locally
-
-Follow the instructions in the [Jekyll Quickstart guide](https://jekyllrb.com/docs/).
+* [Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
+* [PaperMod Theme Guide](https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-installation/).
 
 ## Theme and Credits
 
-* Theme: [Particle](https://github.com/nrandecker/particle)
-* Framework: [Jekyll](https://jekyllrb.com/)
+* Theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
+* Framework: [Hugo](https://gohugo.io/)
 
 ## License
 
