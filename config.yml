@@ -92,6 +92,8 @@ params:
           url: "https://twitter.com/jpafranca"
         - name: github
           url: "https://github.com/joaofranca"
+        - name: medium
+          url: "https://medium.com/@jpafranca"
 
     #analytics:
     #    google:
