@@ -33,8 +33,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-*Hello there and welcome to my little corner!*
+*Hello there, and welcome to my little corner.*
 
-I'm a software crafter with a hybrid background in Software Engineering and Data Science with an MSc degree in AI and Databases. I've been working on fascinating tech projects around the world. If this sounds interesting do check [my work journey on LinkedIn](https://www.linkedin.com/in/joaofranca/), I try to keep it up to date.
+I'm a software crafter with a background in Software Engineering and Artificial Intelligence (MSc degree in Computer Sciences, specialization in AI and databases). I've had amazingly rich and broad experiences working on tech projects around the world, beeing part of startups' founding teams and early seeds, as well as hyper-growth unicorns.  If this sounds interesting do check [my work journey on LinkedIn](https://www.linkedin.com/in/joaofranca/), I try to keep it up to date.
 
-At the moment, you can find me at [Talkdesk](https://www.talkdesk.com/) as Engineering / Data Science Manager, taking part in a [not so secret amazing project](https://www.talkdesk.com/cloud-contact-center/wem/workforce-management-wfm/).
+At the moment you can find me in [Talkdesk](https://www.talkdesk.com/) as Engineering & Data Science Manager, taking part in a [not so secret fascinating project](https://www.talkdesk.com/cloud-contact-center/wem/workforce-management-wfm/).

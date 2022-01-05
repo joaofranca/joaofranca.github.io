@@ -65,7 +65,7 @@ params:
     profileMode:
         enabled: true # needs to be explicitly set
         title: João França
-        subtitle: Hello there and welcome to my little corner!
+        subtitle: Hello there, and welcome to my little corner
         imageUrl: "https://www.gravatar.com/avatar/37166e2e944e6d1e149d7f7febc1e912?size=200"
         imageWidth: 120
         imageHeight: 120
