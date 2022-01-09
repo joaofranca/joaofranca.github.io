@@ -1,5 +1,5 @@
 ---
-summary: Posts about things I find interesting/useful
-title: Posts
-description: Posts about things I find interesting/useful
+title: Inconspicuous Blog
+description: A curated collection of not so random thoughts materialized into the world wide web.
+# summary: A curated collection of not so random thoughts materialized into the world wide web.
 ---

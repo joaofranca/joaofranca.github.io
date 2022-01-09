@@ -13,8 +13,8 @@ hidemeta: false
 comments: false
 description: "And welcome to my new little corner"
 # canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
-disableShare: false
+disableHLJS: false # to disable highlightjs
+disableShare: true
 hideSummary: false
 searchHidden: false
 ShowReadingTime: true
