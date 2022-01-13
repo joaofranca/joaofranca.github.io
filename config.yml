@@ -24,10 +24,10 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    #title: João França's Corner
+    title: João França's Corner
     description: "João França's personal website"
     # keywords: [Blog, Portfolio, PaperMod]
-    author: João França
+    # author: João França
     # author: ["Me", "You"] # multiple authors
     # images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
@@ -104,10 +104,10 @@ params:
         hiddenInList: true # hide on list pages and home
         hiddenInSingle: true # hide on single page
 
-    editPost:
-        URL: "https://github.com/joaofranca/joaofranca.github.io/blob/master/content"
-        Text: "Suggest Changes" # edit text
-        appendFilePath: true # to append file path to Edit link
+    #editPost:
+    #    URL: "https://github.com/joaofranca/joaofranca.github.io/blob/master/content"
+    #    Text: "Suggest Changes" # edit text
+    #    appendFilePath: true # to append file path to Edit link
 
     # for search
     # https://fusejs.io/api/options.html

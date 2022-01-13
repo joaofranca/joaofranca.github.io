@@ -27,14 +27,10 @@ ShowPostNavLinks: false
 #     caption: "<text>" # display caption under cover
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
-editPost:
-    # URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 ---
 
 *Hello there, and welcome to my little corner.*
 
-I'm a software crafter with a background in Software Engineering and Artificial Intelligence (MSc degree in Computer Sciences, specialization in AI and databases). I've had amazingly rich and broad experiences working on tech projects around the world, beeing part of startups' founding teams and early seeds, as well as hyper-growth unicorns.  If this sounds interesting do check [my work journey on LinkedIn](https://www.linkedin.com/in/joaofranca/), I try to keep it up to date.
+My name is *João França* and I'm a software crafter with a background in Software Engineering and Artificial Intelligence (MSc degree in Computer Sciences, specialization in AI and databases). I've had amazingly rich and broad experiences working on tech projects around the world, beeing part of startups' founding teams and early seeds, as well as hyper-growth unicorns.  If this sounds interesting do check [my work journey on LinkedIn](https://www.linkedin.com/in/joaofranca/), I try to keep it up to date.
 
 At the moment you can find me in [Talkdesk](https://www.talkdesk.com/) as Engineering & Data Science Manager, taking part in a [not so secret fascinating project](https://www.talkdesk.com/cloud-contact-center/wem/workforce-management-wfm/).
