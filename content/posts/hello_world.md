@@ -4,7 +4,7 @@ date: 2020-09-18T19:27:03+00:00
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
-# author: "Me"
+author: João França
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
@@ -26,10 +26,10 @@ ShowPostNavLinks: true
 #     caption: "<text>" # display caption under cover
 #     relative: false # when using page bundles set this to true
 #     hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/<path_to_repo>/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
+editPost:
+    URL: "https://github.com/joaofranca/joaofranca.github.io/blob/master/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ---
 No new programming experience is complete without the classic "Hello World" output. In this case, this post marks the *upgrade* my personal website just went through. 
 
