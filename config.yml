@@ -88,10 +88,10 @@ params:
           url: "https://www.linkedin.com/in/joaofranca/"
         - name: stackoverflow
           url: "https://stackoverflow.com/users/633958/joao"
-        - name: twitter
-          url: "https://twitter.com/jpafranca"
         - name: github
           url: "https://github.com/joaofranca"
+        # - name: twitter
+        #  url: "https://twitter.com/jpafranca"
         # - name: medium
         #   url: "https://medium.com/@jpafranca"
 
